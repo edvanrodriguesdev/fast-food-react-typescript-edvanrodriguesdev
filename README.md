@@ -8,4 +8,4 @@ O Fast Food é um projeto Front-end, desenvolvido utilizando as tecnologias:
 - TypeScript + React
 
 ## Descrição
-Uma aplicação que permite acessar a lista de produto da API e simular um carrinho de compras de uma lanchonete fast food, utilizando JavaScript com React..
+Uma aplicação que permite acessar a lista de produto da API e simular um carrinho de compras de uma lanchonete fast food, utilizando TypeScript com React..
