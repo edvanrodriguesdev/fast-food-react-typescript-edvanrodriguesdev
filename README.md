@@ -1,6 +1,6 @@
 ## Sobre
 
-<h2><a href ="fast-food-react-typescript-edvanrodriguesdev.vercel.app">Confira o deploy deste projeto</a></h2>
+<h2><a href ="https://fast-food-react-typescript-edvanrodriguesdev.vercel.app">Confira o deploy deste projeto</a></h2>
 
 O Fast Food é um projeto Front-end, desenvolvido utilizando as tecnologias:
 - HTML
